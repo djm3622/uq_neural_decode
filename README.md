@@ -1,4 +1,4 @@
-# new_qmd_cp
+# UQ + Neural Decoding
 
 Exploration of `mqt.qecc` for surface/planar codes, noise models, and dataset generation.
 
