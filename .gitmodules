@@ -1,0 +1,3 @@
+[submodule "qecc"]
+	path = qecc
+	url = https://github.com/munich-quantum-toolkit/qecc.git

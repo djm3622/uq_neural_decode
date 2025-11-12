@@ -1,0 +1,33 @@
+# Python / venv
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~  # temp files from some editors
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data / outputs (customize as needed)
+data/
+outputs/
+*.log
+
+# Stim or large binary artifacts (opt-in later via LFS)
+*.bin
+*.npz
+*.npy
