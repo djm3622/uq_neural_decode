@@ -4,7 +4,7 @@ Exploration of `mqt.qecc` for surface/planar codes, noise models, and dataset ge
 
 ## Layout
 - `interactive.ipynb`: main notebook
-- `libs/`: your helper modules
+- `libs/`: helper modules
 - `qecc/`: upstream MQT QECC (submodule or vendored)
 - `scripts/`: utility scripts
 
